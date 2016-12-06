@@ -10,4 +10,4 @@ This project constists of exploratory analysis of contraceptive use in Indonesia
    - Age/generation also seem to contribute to birth control usage, which may indicate that usage is in a phase of growth.
   
   
-You can check out my code [here](Contraceptive_Data)
+You can check out my code [here](Contraceptive_Data.ipynb)
